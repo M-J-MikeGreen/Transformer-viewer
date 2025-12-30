@@ -4,12 +4,15 @@ ________________________________________________________________________________
 #introduction
 
 -a gui to operate transformers model .
+
 -now this gui has tested on Qwen3-Embedding-0.6B and gain success.
 _____________________________________________________________________________________________________________________________________________________
 #support
 
 -this gui has only tested on Qwen3-Embedding-0.6B,for the limitation of the oowner's comuter storatage and time,
+
 -this gui hasn't tested on other huge model and hasn't adapted for other language except for Chinese.
+
 -this gui omly can open safetensors files
 _____________________________________________________________________________________________________________________________________________________
 #warning 
