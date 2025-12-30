@@ -21,10 +21,10 @@ before you use it,you'd better download the latest transformers,numpy,safetensor
 _____________________________________________________________________________________________________________________________________________________
 #communication
 
-please email 19232366503@163.com,welcome copperation
+please email 19232366503@163.com,welcome cooperation
 
 _____________________________________________________________________________________________________________________________________________________
 #others
 
-I'm a student who often is buzy with my study,So contact with me when only neccessry.welcome copperation
+I'm a student who often is buzy with my study,So contact with me when only neccessry.welcome cooperation
 
