@@ -9,7 +9,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________
 #support
 
--this gui has only tested on Qwen3-Embedding-0.6B,for the limitation of the oowner's comuter storatage and time,
+-this gui has only tested on Qwen3-Embedding-0.6B,because of  the limitation of the oowner's comuter storatage and time,this version isn't completed.
 
 -this gui hasn't tested on other huge model and hasn't adapted for other language except for Chinese.
 
