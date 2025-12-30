@@ -13,3 +13,13 @@ ________________________________________________________________________________
 #warning 
 
 before you use it,you'd better download the latest transformers,numpy,safetensors  version and has a python envirement
+_____________________________________________________________________________________________________________________________________________________
+#communication
+
+please email 19232366503@163.com
+
+_____________________________________________________________________________________________________________________________________________________
+#others
+
+I'm a student who often is buzy with my study,So contact with me when only neccessry
+
