@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 -this gui hasn't tested on other huge model and hasn't adapted for other language except for Chinese.
 
--this gui omly can open safetensors files
+-this gui  can only open safetensors files
 _____________________________________________________________________________________________________________________________________________________
 #warning 
 
