@@ -1,13 +1,13 @@
 # Transformer-viewer
 a gui to oprate the transformer model.
 _____________________________________________________________________________________________________________________________________________________
-#introduction
+##introduction
 
 -a gui to operate transformers model .
 
 -now this gui has tested on Qwen3-Embedding-0.6B and gain success.
 _____________________________________________________________________________________________________________________________________________________
-#support
+##support
 
 -this gui has only tested on Qwen3-Embedding-0.6B,because of  the limitation of the oowner's comuter storatage and time,this version isn't completed.
 
@@ -15,11 +15,11 @@ ________________________________________________________________________________
 
 -this gui  can only open safetensors files
 _____________________________________________________________________________________________________________________________________________________
-#warning 
+##warning 
 
 before you use it,you'd better download the latest transformers,numpy,safetensors  version and has a python envirement.
 _____________________________________________________________________________________________________________________________________________________
-#communication
+##communication
 
 please email 19232366503@163.com,welcome cooperation
 
